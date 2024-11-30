@@ -13,11 +13,11 @@
 
 ## Screenshots
 
-| Default Theme                                                                                 | DayNight [@JackieSung](https://github.com/JackieSung4ev)                                               | hotaru                                                                     |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| ![Default Theme](resource/template/theme-default/screenshot.png)                              | <img src="resource/template/theme-daynight/screenshot.png" width="3000px"/>                            | <img src="resource/template/theme-hotaru/screenshot.png" width="1500px" /> |
-| <div align="center"><b>Neko Mdui <a href="https://github.com/MikoyChinese">@MikoyChinese</a></b></div> |      <div align="center"><b>AngelKanade <a href="https://github.com/adminsama">@adminsama</a></b></div>         |<div align="center"><b>ServerStatus <a href="https://github.com/unclezs">@unclezs</a></b></div> |
-| ![Neko Mdui](resource/template/theme-mdui/screenshot.png)                                              |        ![AngelKanade](resource/template/theme-angel-kanade/screenshot.png)            | ![默认主题魔改](resource/template/theme-server-status/screenshot.png)       |
+ 用户前台 [@hamster1963](https://github.com/hamster1963) | 管理后台 [@uubulb](https://github.com/uubulb) |
+|---|---|
+| ![user](.github/user-frontend.20241128.png)  | ![admin](.github/admin-frontend.20241128.png)  |
+| [hamster1963/nezha-dash-react](https://github.com/hamster1963/nezha-dash-react)  | [nezhahq/admin-frontend](https://github.com/nezhahq/admin-frontend)  |
+
 
 ## Supported Languages
 
